@@ -1,10 +1,10 @@
-name: nodebot
-description: A simple node.js starter bot for Beep Boop
+name: alia
+description: An entertainment bot called alia
 avatar: resources/avatar.png
-#background: resources/background.png
-#config:
+background: resources/background.png
+config:
 #  - name: OPTION
-#    friendly_name: Some Unnecessary Option
+   friendly_name: AL
 #    info: This is an unnecessary option
 #    default: the default value
 #  - name: SECRET
@@ -13,5 +13,5 @@ avatar: resources/avatar.png
 #    type: secret
 #    default: not secret though
 #screenshots:
-#  - screenshot: resources/screenshot1.png
+ - screenshot: resources/screenshot1.png
 #  - screenshot: resources/screenshot2.jpg
